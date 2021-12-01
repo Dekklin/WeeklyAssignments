@@ -1,0 +1,5 @@
+C:\Users\colli\Revature\Weeklies\WeeklyAssignments\rock-paper-scissors\RPS\RPS\obj\Debug\net5.0\RPS.csproj.AssemblyReference.cache
+C:\Users\colli\Revature\Weeklies\WeeklyAssignments\rock-paper-scissors\RPS\RPS\obj\Debug\net5.0\RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colli\Revature\Weeklies\WeeklyAssignments\rock-paper-scissors\RPS\RPS\obj\Debug\net5.0\RPS.AssemblyInfoInputs.cache
+C:\Users\colli\Revature\Weeklies\WeeklyAssignments\rock-paper-scissors\RPS\RPS\obj\Debug\net5.0\RPS.AssemblyInfo.cs
+C:\Users\colli\Revature\Weeklies\WeeklyAssignments\rock-paper-scissors\RPS\RPS\obj\Debug\net5.0\RPS.csproj.CoreCompileInputs.cache
